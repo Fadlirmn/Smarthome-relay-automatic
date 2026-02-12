@@ -30,7 +30,7 @@ This project uses an **ESP32** to:
 ---
 
 ## LCD Display Format (16x2)
-
+![Scematic](skematik/real-display.png)
 ### Normal Operation
 
 ```
@@ -78,7 +78,7 @@ This project uses an **ESP32** to:
 | I2C SCL  | 22   |
 
 ---
-
+![Scematic](skematik/Skematik%20Smarthome.png)
 ## MQTT Configuration
 
 ```
